@@ -1,0 +1,11 @@
+{
+    "urls" : [
+        "https://api.ipify.org/"
+    ],
+    "rest" : {
+        "getProxies" : "http://localhost:1111/get-proxies",
+        "removeProxy" : "http://localhost:1111/remove-proxy",
+        "setProxyGood" : "http://localhost:1111/set-proxy-good"
+    },
+    "thread" : 10
+}

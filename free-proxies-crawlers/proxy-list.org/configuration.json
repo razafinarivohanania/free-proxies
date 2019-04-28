@@ -1,0 +1,5 @@
+{
+    "rest" : {
+        "addProxy" : "http://localhost:1111/add-proxy"
+    }
+}

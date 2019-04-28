@@ -1,0 +1,17 @@
+{
+  "name": "free-proxies-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "free-proxies-tester",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node free-proxies-tester"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^14.0.0",
+    "free-proxies-api": "file:../free-proxies-api"
+  }
+}

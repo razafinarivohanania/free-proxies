@@ -1,0 +1,16 @@
+{
+  "name": "free-proxies-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "free-proxies-scheduler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node free-proxies-scheduler"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "free-proxies-api": "file:../free-proxies-api"
+  }
+}

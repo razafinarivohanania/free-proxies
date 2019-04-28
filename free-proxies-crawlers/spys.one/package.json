@@ -1,0 +1,16 @@
+{
+  "name": "spys.one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spys.one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node spys.one"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "free-proxies-api": "file:../../free-proxies-api"
+  }
+}

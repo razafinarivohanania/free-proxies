@@ -1,0 +1,12 @@
+{
+    "jobs" : [
+        {
+            "crawler" : "proxy-list.org",
+            "every" : 60000
+        },
+        {
+            "crawler" : "spys.one",
+            "every" : 60000
+        }
+    ]
+}

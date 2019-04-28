@@ -1,0 +1,7 @@
+{
+    "rest": {
+        "setProxyCountry": "http://localhost:1111/set-proxy-country",
+        "getProxies": "http://localhost:1111/get-proxy"
+    },
+    "thread" : 10
+}

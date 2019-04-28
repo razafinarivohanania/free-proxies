@@ -1,0 +1,16 @@
+{
+  "name": "free-proxy-list.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node free-proxy-list.net"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "free-proxies-api": "file:../../free-proxies-api"
+  }
+}
