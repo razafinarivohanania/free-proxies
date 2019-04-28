@@ -8,7 +8,7 @@
     "start": "node free-proxies-tester"
   },
   "keywords": [],
-  "author": "",
+  "author": "RAZAFIANRIVO Hanania",
   "license": "ISC",
   "dependencies": {
     "jsdom": "^14.0.0",

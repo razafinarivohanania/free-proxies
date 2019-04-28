@@ -8,7 +8,7 @@
     "start": "node free-proxies-country"
   },
   "keywords": [],
-  "author": "",
+  "author": "RAZAFINARIVO Hanania",
   "license": "ISC",
   "dependencies": {
     "free-proxies-api": "file:../free-proxies-api"
