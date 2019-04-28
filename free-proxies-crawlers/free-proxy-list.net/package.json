@@ -2,7 +2,7 @@
   "name": "free-proxy-list.net",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/proxies-extractor",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node free-proxy-list.net"
