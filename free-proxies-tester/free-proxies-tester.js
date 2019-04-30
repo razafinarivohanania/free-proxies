@@ -42,7 +42,7 @@ async function testProxies(configuration) {
     let response = await API.Connection.getConnection(configuration.rest.getProxies);
     console.log(`STATUS : ${response.status}`);
 
-    if (response.status != 200 || !response.success) {
+    if (response.status != 200 || !response.data.success) {
         console.log(`ERROR : ${response.data}`);
         return;
     }
