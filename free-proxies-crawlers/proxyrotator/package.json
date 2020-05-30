@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "free-proxies-api": "file:../../free-proxies-api",
-    "tesseract.js": "^1.0.14"
+    "tesseract.js": "^1.0.19"
   }
 }
